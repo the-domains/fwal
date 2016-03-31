@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Frederik Wallner]]></title>
         <description><![CDATA[Frederik Wallner]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fwal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 19:55:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 20:10:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fwal/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hello overlord!</p>]]></description>
-            <link>undefinedhello-overlord/index.html</link>
+            <title><![CDATA[Hello overlord!]]></title>
+            <description><![CDATA[<article><h1>Hello overlord!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb9cf4c380f012835a879db6e88f4fe50f77d88c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/fwal/hello-overlord/index.html</link>
             <guid isPermaLink="false">c51672e9-d272-49a0-b2d3-6a71dd5932c2</guid>
-            <pubDate>Thu, 31 Mar 2016 19:55:09 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2016 20:09:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
