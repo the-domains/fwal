@@ -1,0 +1,28 @@
+name: Frederik Wallner
+favicon: null
+layout_spectrum: 0.7448510439135134
+typography_spectrum: 0.785075037041679
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9214100367389619
+  lightness: 0.09363120817579329
+  saturation: 0.3650729467626661
+  rhythmicContrast: 0.17527352599427104
+purpose: []
