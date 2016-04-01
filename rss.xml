@@ -4,15 +4,8 @@
         <description><![CDATA[Frederik Wallner]]></description>
         <link>https://thegrid.ai/fwal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 20:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 05:12:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fwal/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[AlphaGo wins vs world champion in Go]]></title>
-            <description><![CDATA[<article><h1>AlphaGo wins vs world champion in Go</h1><p>Final score: AlphaGo 4 - Lee Sedol 1. The Game of Go The game of Go originated in China more than 2,500 years ago. The rules of the game are simple: Players take turns to place black or white stones on a board, trying to capture the opponent's stones or surround empty space to make points of territory.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ccbdf226f34c9a4f9991c00760755ba8c627921.png"></article>]]></description>
-            <link>https://deepmind.com/alpha-go.html</link>
-            <guid isPermaLink="false">6f95607a-3ea5-4ffd-bd8e-987168f7200c</guid>
-            <pubDate>Thu, 31 Mar 2016 20:17:41 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Hello overlord!]]></title>
             <description><![CDATA[<article><h1>Hello overlord!</h1><p>So now that our cloud based overlords starts to do stuff what will happen next?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb9cf4c380f012835a879db6e88f4fe50f77d88c.jpg"></article>]]></description>
