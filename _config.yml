@@ -1,18 +1,30 @@
-analytics: {}
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+opengraph: {}
 color:
+  saturation: 0.6541219
+  brandStrength: 0.451576
+  lightness: 1
   brandColors:
     - '#dad3c2'
     - '#02131e'
     - '#d39c7a'
     - '#a5432b'
     - '#57291d'
-  brandStrength: 0.451576
-  lightness: 1
   rhythmicContrast: 0.414414
-  saturation: 0.125
-cta: {}
+typography_spectrum: 0.2831541
 layout_spectrum: 0.40843
+cta: {}
+analytics: {}
 name: Frederik Wallner
-opengraph: {}
-purpose: []
-typography_spectrum: 0.31324
