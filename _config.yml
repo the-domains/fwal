@@ -1,30 +1,30 @@
-purpose: []
+name: Frederik Wallner
+opengraph: {}
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-opengraph: {}
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
   saturation: 0.6541219
   brandStrength: 0.451576
-  lightness: 1
+  rhythmicContrast: 0.414414
   brandColors:
     - '#dad3c2'
     - '#02131e'
     - '#d39c7a'
     - '#a5432b'
     - '#57291d'
-  rhythmicContrast: 0.414414
-typography_spectrum: 0.2831541
-layout_spectrum: 0.40843
+  lightness: 1
+typography_spectrum: 0.3082437
 cta: {}
 analytics: {}
-name: Frederik Wallner
+layout_spectrum: 0.1738351
